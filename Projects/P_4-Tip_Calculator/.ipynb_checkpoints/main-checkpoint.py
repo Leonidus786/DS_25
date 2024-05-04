@@ -7,65 +7,6 @@
 
 #Write your code below this line 👇
 
-print("Welcome to the tip calculator!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 print("Welcome to the tip calculator!")
 
